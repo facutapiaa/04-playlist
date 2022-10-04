@@ -1,0 +1,23 @@
+1)wos - Alma Dinamita 
+2) Bad Bunny - Si veo a tu mama
+3) Dillom- 220
+4) Zeballos- Eclipse
+5) Zeballos - Beatriz
+6) Duki - Yin Yan
+7)Paulo Londra - Maldita Abusadora
+8)Paulo Londra - Demasiado Loco
+9) Trueno - Rain II
+10)Wos- Contando Ovejas
+
+paleta 1:
+002B5B
+2B4865
+256D85
+8FE3CF
+
+paleta2:
+CCD6A6
+DAE2B6
+DFE8CC
+F7EDDB
+
