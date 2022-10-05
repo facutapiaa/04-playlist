@@ -1,14 +1,14 @@
 header {
     text-align: center;
     background-color: rgb(42, 116, 165);
-    width: 97.4%;
+    width: 99.5%;
     border: 5px solid black;
 }
 
 main {
     border: 5px solid rgb(0, 0, 0);
-    background-color: rgb(42, 116, 165);
-    width: 97.4%;
+    background-color: rgba(42, 116, 165, 0.829);
+    width: 99.5%;
 
 }
 
@@ -21,15 +21,13 @@ h1 {
 
 }
 
-p{
+p {
     color: white;
 }
 
 table {
-    /*background-color: rgb(42, 116, 165);
-    border: 5px solid rgb(0, 0, 0);*/
     border-collapse: collapse;
-    width: 98%;
+    width: 100%;
 }
 
 th {
@@ -39,7 +37,7 @@ th {
 td {
     color: white;
     border: 2px solid rgb(70, 141, 189);
-
+    text-align: center;
 }
 
 a {
@@ -49,6 +47,11 @@ a {
 footer {
     text-align: center;
     background-color: rgb(42, 116, 165);
-    width: 97.4%;
+    width: 99.5%;
     border: 5px solid rgb(0, 0, 0);
+}
+ main, footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
 }
